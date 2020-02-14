@@ -6,3 +6,5 @@
 - 散点图 scatter
 - 堆叠图 stackplot
 - 饼图 pie
+
+- 选项 
